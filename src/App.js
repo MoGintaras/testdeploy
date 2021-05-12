@@ -4,7 +4,6 @@ import HomePage from './Pages/HomePage';
 import {Switch, Route} from 'react-router-dom';
 import AboutPage from './Pages/AboutPage';
 import PortfliosPage from './Pages/PortfoliosPage';
-
 import ContactPage from './Pages/ContactPage';
 import { useState } from 'react';
 
